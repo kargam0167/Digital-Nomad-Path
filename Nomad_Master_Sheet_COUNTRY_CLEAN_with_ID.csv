@@ -1,0 +1,476 @@
+ID,Home_coun,Cur_Coun,Coun_YR_Which,Coun_YR_Which_clean
+1,Germany,China,Egypt germany china,"Egypt, Germany, China"
+2,Germany,Tanzania,"Germany, Tanzania, Indonesia, Vietnam, Laos, Taiwan, Thailand, Philippines, India, Malaysia, Hungary","Germany, Tanzania, Indonesia, Vietnam, Laos, Taiwan, Thailand, Philippines, India, Malaysia, Hungary"
+3,Indonesia,Indonesia,"Indonesia, Singapore, Malaysia, China","Indonesia, Singapore, Malaysia, China"
+4,Indonesia,Malta,"UK, Switzerland, Indonesia, Nepal, Mauritius, Italy, Thailand, etc","United Kingdom, Switzerland, Indonesia, Nepal, Mauritius, Italy, Thailand"
+5,Pakistan,Saudi Arabia,"Switzerland, uae, china","Switzerland, United Arab Emirates, China"
+6,Indonesia,China,"Japan, England, China","Japan, United Kingdom, China"
+7,Indonesia,Saudi Arabia,Malaysia,Malaysia
+8,Indonesia,China,Malaysia,Malaysia
+9,Vietnam,Spain,australia,Australia
+10,Indonesia,China,Indonesia china,"Indonesia, China"
+11,Indonesia,Indonesia,"China, Malaysia, Singapore","China, Malaysia, Singapore"
+12,Indonesia,Philippines,"Thailand, Singapore, Vietnam","Thailand, Singapore, Vietnam"
+13,Indonesia,United States of America,"Vietnam, Camboja, London","Vietnam, Cambodia"
+14,Indonesia,Malaysia,"Thailand, Singapore, Japan, Taiwan, and Indonesia.","Thailand, Singapore, Japan, Taiwan, Indonesia"
+15,Indonesia,China,United Kingdom and Indonesia,"United Kingdom, Indonesia"
+16,Poland,Hungary,"Hungary, Germany, Finland, Spain, Tunisia, India, Turkie, Austia and of course i was home in PL","Hungary, Germany, Finland, Spain, Tunisia, India, Turkey, Austria"
+17,Australia,Germany,"Austria, Switzerland, Netherlands","Austria, Switzerland, Netherlands"
+18,Bosnia and Herzegovina,Croatia,"Austria, Switzerland, Poland, Italy, Netherlands, Serbia","Austria, Switzerland, Poland, Italy, Netherlands, Serbia"
+19,UK,Vietnam,"Veitnam, Thailand, Cambodia,","Vietnam, Thailand, Cambodia"
+20,Turkey,Turkey,"Serbia, Montenegro, El Salvador, Belize, Jamaica, Dominican Republic, Guatemala, Costa Rica, North Macedonia, Colombia, Panama, Thailand","Serbia, Montenegro, El Salvador, Belize, Jamaica, Dominican Republic, Guatemala, Costa Rica, North Macedonia, Colombia, Panama, Thailand"
+21,United States of America,South Africa,"Frane, Liechtenstein, Morocco, Luxembourg, Belgium, UK, Serbia, Denmark, Poland, Sweden, Egypt, Bosnia, Turkey, South Africa","France, Liechtenstein, Morocco, Luxembourg, Belgium, United Kingdom, Serbia, Denmark, Poland, Sweden, Egypt, Bosnia and Herzegovina, Turkey, South Africa"
+22,France,Spain,"Singapore, Malaysia, Indonesia, Greece, Israel","Singapore, Malaysia, Indonesia, Greece, Israel"
+23,France,Spain,"Thailand, Vietnam, Spain, Turkey, Belgium, France","Thailand, Vietnam, Spain, Turkey, Belgium, France"
+24,United States of America,Spain,"Denmark, Sweden, Netherlands, Germany, London, Spain, United States of America (3 states in US as well - California, Connecticut, Florida)","Denmark, Sweden, Netherlands, Germany, Spain, United States of America"
+25,Germany,Spain,"France, Spain, Italy, Poland, Belgium, Switzerland","France, Spain, Italy, Poland, Belgium, Switzerland"
+26,Germany,Spain,"Germany, Thailand","Germany, Thailand"
+27,Turkey,Morocco,"Colombia, Mexico, Turkiye, Azerbaijan, Georgia, Morocco","Colombia, Mexico, Turkey, Azerbaijan, Georgia, Morocco"
+28,Croatia,Bosnia and Herzegovina,"Denmark, Austria, Croatia, Bosnia","Denmark, Austria, Croatia, Bosnia and Herzegovina"
+29,United States of America,Georgia,"Chile, Australia, Indonesia, Switzerland, Bulgaria, United States of America, Poland, Estonia, Latvia, Canada, Japan, South Korean","Chile, Australia, Indonesia, Switzerland, Bulgaria, United States of America, Poland, Estonia, Latvia, Canada, Japan, South Korea"
+30,Canada,Canada,SPAIN PORTUGAL GERMANY CZECH AUSTRIA SLOVAKIA BULGARIA North Macedonia KOSOVO B & H MONTENEGRO ALBANIA HUNGARY SWITZERLAND FRANCE BELGIUM LUXEMBOURG NETHERLANDS ITALY VATICAN,"Spain, Portugal, Germany, Czech Republic, Austria, Slovakia, Bulgaria, North Macedonia, Montenegro, Albania, Hungary, Switzerland, France, Belgium, Luxembourg, Netherlands, Italy"
+31,Switzerland,Thailand,"Ireland, Brazil, Montenegro, Bulgaria, Germany, etc","Ireland, Brazil, Montenegro, Bulgaria, Germany"
+32,Sweden,Spain,"UK, United States of America, Spain, France, Germany, Belgium, Netherlands, Denmark, Italy, Switzerland,","United Kingdom, United States of America, Spain, France, Germany, Belgium, Netherlands, Denmark, Italy, Switzerland"
+33,France,Slovenia,"Colombia, France, Spain, United States of America","Colombia, France, Spain, United States of America"
+34,Germany,Montenegro,"Sweden, Norway, Denmark, Germany, Switzerland, Austria, Slovenia, Hungary, Serbia, Croatia, Bosnia, Italy, Montenegro","Sweden, Norway, Denmark, Germany, Switzerland, Austria, Slovenia, Hungary, Serbia, Croatia, Bosnia and Herzegovina, Italy, Montenegro"
+35,Germany,Spain,"Spain, Georgia, Maldives, Philippines, Indonesia, Germany, Morocco","Spain, Georgia, Maldives, Philippines, Indonesia, Germany, Morocco"
+36,United States of America,Spain,"South korea, australia, taiwan, hong kong","South Korea, Australia, Taiwan"
+37,Croatia,Greece,Costa Rica/Italy/Denmark/Greece/Croatia,"Costa Rica, Italy, Denmark, Greece, Croatia"
+38,Israel,Netherlands,"United States of America, Israel, Austria, Germany","United States of America, Israel, Austria, Germany"
+39,Netherlands,Slovenia,"Croatia, France, Norway, Italy, Colombia, Mexico, United States of America, Spain","Croatia, France, Norway, Italy, Colombia, Mexico, United States of America, Spain"
+40,Indonesia,China,Malaysia Singapore Indonesia,"Malaysia, Singapore, Indonesia"
+41,Netherlands,Sweden,"Sweden, Germany, UK, Spain, Portugal, Japan, US, Canada","Sweden, Germany, United Kingdom, Spain, Portugal, Japan, United States of America, Canada"
+42,United States of America,Spain,"UK, United States of America, Mexico, Belgium, Netherlands, France","United Kingdom, United States of America, Mexico, Belgium, Netherlands, France"
+43,Poland,Spain,"Poland, Netherlands, Belgium, Czechia, Spain, Italy, France, Portugal","Poland, Netherlands, Belgium, Czech Republic, Spain, Italy, France, Portugal"
+44,United States of America,Spain,"Mexico, Netherlands, Belgium, France, Spain, UK, United States of America","Mexico, Netherlands, Belgium, France, Spain, United Kingdom, United States of America"
+45,Sweden,Spain,"Sweden, Denmark, Switzerland, Spain","Sweden, Denmark, Switzerland, Spain"
+46,Finland,Spain,"Spain, France, Australia, Austria, Slovenia, Slovakia, Hungary, Poland, Czech Republic, Estonia, Lithuania.","Spain, France, Australia, Austria, Slovenia, Slovakia, Hungary, Poland, Czech Republic, Estonia, Lithuania"
+47,Poland,Spain,"Bulgaria, Greece, Poland, Czechia, Sri Lanka, Oman","Bulgaria, Greece, Poland, Czech Republic, Sri Lanka, Oman"
+48,Germany,Germany,"Spain, Portugal, Italy, Czech Republic, Germany","Spain, Portugal, Italy, Czech Republic, Germany"
+49,Brazil,Poland,"Poland, Japan, Germany, Italy","Poland, Japan, Germany, Italy"
+50,Poland,Poland,"Germany, Italy, Japan, Poland","Germany, Italy, Japan, Poland"
+51,Poland,Poland,"Germany, Croatia, Vietnam, Singapour","Germany, Croatia, Vietnam, Singapore"
+52,Bangladesh,Portugal,"Morroco, Egypt","Morocco, Egypt"
+53,Slovenia,Slovenia,Thailand,Thailand
+54,Israel,United States of America,"Israel, US, Netherland, Portugal, Spain","Israel, United States of America, Netherlands, Portugal, Spain"
+55,Turkey,Indonesia,"Thailand, Sri Lanka, Philippines, Singapore, Vietnam, Japan, Korea, Malaysia","Thailand, Sri Lanka, Philippines, Singapore, Vietnam, Japan, South Korea, Malaysia"
+56,United Kingdom,Spain,UK; Portugal; Spain; Turkey; Turkmenistan; Uzbekistan; Kyrgyzstan; Tajikistan; Kazakhstan; India; Sri Lanka; China; Italy; Japan; Canada,"United Kingdom, Portugal, Spain, Turkey, Turkmenistan, Uzbekistan, Kyrgyzstan, Tajikistan, Kazakhstan, India, Sri Lanka, China, Italy, Japan, Canada"
+57,Poland,Poland,"Filipiny, Tajlandia, Grenada, St Vincent and Grenadines, Czech, Malezja, China, UK, Spain","Grenada, Saint Vincent and the Grenadines, Czech Republic, China, United Kingdom, Spain"
+58,United States of America,Portugal,"Croatia, Makedonia, Spain, Italy","Croatia, Spain, Italy"
+59,Romania,Romania,"Belgium, Spain, Morocco","Belgium, Spain, Morocco"
+60,Israel,Italy,"Us, Israel, France, Spain","United States of America, Israel, France, Spain"
+61,United States of America,Portugal,"Costa Rica, Mexico, Brasil","Costa Rica, Mexico, Brazil"
+62,France/UK,Slovenia,"France, Slovenia, England, Scotland, Germany","France, Slovenia, United Kingdom, Germany"
+63,United States of America,North Macedonia,"Serbia, Kosovo",Serbia
+64,United States of America,North Macedonia,"Italy, Turkey, Bulgaria, Serbia","Italy, Turkey, Bulgaria, Serbia"
+65,Australia,North Macedonia,"North Macedonia, Greece, Saudi Arabia","North Macedonia, Greece, Saudi Arabia"
+66,UK,North Macedonia,Türkiye and Qatar,Qatar
+67,Wales,North Macedonia,Albania,Albania
+68,Germany,Spain,"Jordan, North Macedonia, Spain, Germany","Jordan, North Macedonia, Spain, Germany"
+69,United Kingdom,United Kingdom,United States of America,United States of America
+70,romania,United Kingdom,italy,Italy
+71,Untied Kingdom,United Kingdom,"France, Malta, Vietnam, Singapore, Indonesia, Denmark, Sweden, Italy, UAE, Portugal","France, Malta, Vietnam, Singapore, Indonesia, Denmark, Sweden, Italy, United Arab Emirates, Portugal"
+72,United Kingdom,Spain,"Albania, Italy","Albania, Italy"
+73,UK,United Kingdom,"Jamaica, spain, italy and america","Jamaica, Spain, Italy, United States of America"
+74,uk,Bangladesh,bangladesh india,"Bangladesh, India"
+75,United Kingdom,Spain,"Italy, UK, Ireland","Italy, United Kingdom, Ireland"
+76,Northern Ireland,United kingdom,Spain France germany,"Spain, France, Germany"
+77,United Kingdom,Vietnam,"European countries, Thailand, Singapore, laos","Thailand, Singapore, Laos"
+78,Italy,United Kingdom,"Greece, Italy, Spain","Greece, Italy, Spain"
+79,United Kingdom,Spain,"Italy, Finland, Germany","Italy, Finland, Germany"
+80,UK,United Kingdom,"Thailand, US, Jamaica, Grand Cayman, France, Croatia","Thailand, United States of America, Jamaica, France, Croatia"
+81,England,United Kingdom,"France, Lithuania, Portugal","France, Lithuania, Portugal"
+82,England,United Kingdom,"Greece, Italy, France, Spain","Greece, Italy, France, Spain"
+83,Britain,United Kingdom,"Spain, Bulgaria, Poland, France","Spain, Bulgaria, Poland, France"
+84,UK,United Kingdom,kenya india germany uae,"Kenya, India, Germany, United Arab Emirates"
+85,England,Spain,"Iceland, Poland, Italy, Bali, Spain","Iceland, Poland, Italy, Spain"
+86,UK,United Kingdom,"Maldives, Sri Lanka, Dominican Republic, Greece and Belgium","Maldives, Sri Lanka, Dominican Republic, Greece, Belgium"
+87,UK,United Kingdom,"Spain, Japan, United States of America, Uk","Spain, Japan, United States of America, United Kingdom"
+88,England,United Kingdom,"France, Croatia, Netherlands","France, Croatia, Netherlands"
+89,african,United Kingdom,United States of America,United States of America
+90,UK,United Kingdom,"spain, france, italy UK","Spain, France, Italy, United Kingdom"
+91,united kingdom,United Kingdom,qatar,Qatar
+92,uk,United Kingdom,"malaysia, brazil, australia, spain, france, malaysia, turkey, austria, switzerland, france, scotland","Malaysia, Brazil, Australia, Spain, France, Turkey, Austria, Switzerland, United Kingdom"
+93,Bosnia and Herzegovina,Bosnia and Herzegovina,"Croatia, Netherlands, Hungary","Croatia, Netherlands, Hungary"
+94,Bosnia and Herzegovina,Thailand,Thailand,Thailand
+95,Bosnia and Herzegovina,Turkey,"Croatia, Albania, North Macedonia, Greece, Serbia, Italy, France, Turkiye, Bulgaria, Austria, Kosovo, New Zealand","Croatia, Albania, North Macedonia, Greece, Serbia, Italy, France, Turkey, Bulgaria, Austria, New Zealand"
+96,Bosnia and Herzegovina,Sweden,"Portugal, Austria, Germany, Serbia, Bulgaria, Sweden, Croatia","Portugal, Austria, Germany, Serbia, Bulgaria, Sweden, Croatia"
+97,Bosnia and Herzegovina,Turkey,"Serbia, Croatia, Sweden, Turkey","Serbia, Croatia, Sweden, Turkey"
+98,Turkey,Bosnia and Herzegovina,"Turkey, montenegro, serbia, brazil","Turkey, Montenegro, Serbia, Brazil"
+99,Bosnia and Herzegovina,United Arab Emirates,"Croatia, Germany, UAE","Croatia, Germany, United Arab Emirates"
+100,Bosnia and Herzegovina,Bosnia and Herzegovina,"Germany, Turkey, Sweden","Germany, Turkey, Sweden"
+101,Netherlands,Bosnia and Herzegovina,"Austria, Turkey and Slovenia","Austria, Turkey, Slovenia"
+102,Brazil,Bosnia and Herzegovina,"Bosnia and Herzegovina, Serbia, Montenegro, Croatia, Albania, Kosovo, North Macedonia, Romania, Moldova, France, Italy, Germany, Portugal, Greece","Bosnia and Herzegovina, Serbia, Montenegro, Croatia, Albania, North Macedonia, Romania, Moldova, France, Italy, Germany, Portugal, Greece"
+103,United States of America,South Africa,"Switzerland, Turkiye, South Africa, Sweden, Poland, Serbia, Bosnia & Herzegovina, Denmark, Morocco, France, Liechtenstein, Luxembourg","Switzerland, Turkey, South Africa, Sweden, Poland, Serbia, Bosnia and Herzegovina, Denmark, Morocco, France, Liechtenstein, Luxembourg"
+104,Bosnia and Herzegovina,Croatia,Croatia and Turkey,"Croatia, Turkey"
+105,Bosnia and Herzegovina,Croatia,"Austria, Germany, UK, Italy, Albania, Montenegro, North Macedonia, Kosovo","Austria, Germany, United Kingdom, Italy, Albania, Montenegro, North Macedonia"
+106,United States of America,Bosnia and Herzegovina,"Bosnia, Croatia, Italy, Spain, Portugal, United States of America, Canada, Hungary, Switzerland","Bosnia and Herzegovina, Croatia, Italy, Spain, Portugal, United States of America, Canada, Hungary, Switzerland"
+107,Bosnia and Herzegovina,United Arab Emirates,"Serbia, Greece, UAE, Saudi Arabia, Montenegro, Croatia, Turkey","Serbia, Greece, United Arab Emirates, Saudi Arabia, Montenegro, Croatia, Turkey"
+108,Bosnia and Herzegovina,Bosnia and Herzegovina,"Montenegro, Czech Republic, Greece, Germany, Austria","Montenegro, Czech Republic, Greece, Germany, Austria"
+109,Germany,Bosnia and Herzegovina,"Netherlands, Turkiye, UK and Bosnia and Herzegovina","Netherlands, Turkey, United Kingdom, Bosnia and Herzegovina"
+110,Sweden,Bosnia and Herzegovina,Turkiye,Turkey
+111,Bosnia and Herzegovina,Croatia,"Croatia, Serbia, Austria, Hungary, Greece","Croatia, Serbia, Austria, Hungary, Greece"
+112,Bosnia and Herzegovina,Bosnia and Herzegovina,"Croatia, Germany, Netherlands, Austria","Croatia, Germany, Netherlands, Austria"
+113,Sweden,Bosnia and Herzegovina,Lithania,Lithuania
+114,Bosnia and Herzegovina,Bosnia and Herzegovina,"Serbia, Croatia, Hungary, Austria","Serbia, Croatia, Hungary, Austria"
+115,Bosnia and Herzegovina,Bosnia and Herzegovina,"Spain, Germany, United States of America, Switzerland, Croatia, Malaysia","Spain, Germany, United States of America, Switzerland, Croatia, Malaysia"
+116,Bosnia and Herzegovina,Bosnia and Herzegovina,"Turkey , Croatia , Bulgaria","Turkey, Croatia, Bulgaria"
+117,Bosnia and Herzegovina,Germany,"Canada, France, UK, Russia, Portugal, Greece","Canada, France, United Kingdom, Russia, Portugal, Greece"
+118,Croatia,Bosnia and Herzegovina,"Slovenia, Czech Republic, Spain","Slovenia, Czech Republic, Spain"
+119,Bosnia and Herzegovina,Bosnia and Herzegovina,"Turkey, Malaysia, Singapore, Croatia","Turkey, Malaysia, Singapore, Croatia"
+120,Bosnia and Herzegovina,Germany,"Germany, Turkey, Serbia, France","Germany, Turkey, Serbia, France"
+121,Bosnia and Herzegovina,Croatia,"Serbia, Croatia, Hungary, Greece, Austria and Germany","Serbia, Croatia, Hungary, Greece, Austria, Germany"
+122,Bosnia and Herzegovina,Bosnia and Herzegovina,"Turkiye, Montenegro, Bulgaria, Serbia, Croatia etc.","Turkey, Montenegro, Bulgaria, Serbia, Croatia"
+123,United States of America,Bosnia and Herzegovina,"Croatia, Italy, United States of America, England, Swirtzerland","Croatia, Italy, United States of America, United Kingdom, Switzerland"
+124,Bosnia and Herzegovina,Bosnia and Herzegovina,"UAE, Slovenia, Malta, Croatia, Poland, Slovakia, Germany, Italy","United Arab Emirates, Slovenia, Malta, Croatia, Poland, Slovakia, Germany, Italy"
+125,Bosnia and Herzegovina,Turkey,"Italy, Cyprus","Italy, Cyprus"
+126,Bosnia and Herzegovina,Bosnia and Herzegovina,"Belgium, Germany, Serbia, Sweden, Montenegro, Croatia","Belgium, Germany, Serbia, Sweden, Montenegro, Croatia"
+127,United Kingdom,Bosnia and Herzegovina,Croatia Serbia Montenegro Slovenia Germany,"Croatia, Serbia, Montenegro, Slovenia, Germany"
+128,Bosnia and Herzegovina,Austria,"Croatia, Austria, Sweden and Serbia","Croatia, Austria, Sweden, Serbia"
+129,France,United States of America,United States of America,United States of America
+130,Bosnia and Herzegovina,Bosnia and Herzegovina,"Italy, Turkey, Croatia and Austria","Italy, Turkey, Croatia, Austria"
+131,Netherlands,Bosnia and Herzegovina,"Germany, Croatia, Montenegro, Austria, Slovenia, Belgium","Germany, Croatia, Montenegro, Austria, Slovenia, Belgium"
+132,Croatia,United States of America,"United States of America, Germany, Bosnia, Croatia, Turkey, Greece, Italy","United States of America, Germany, Bosnia and Herzegovina, Croatia, Turkey, Greece, Italy"
+133,Bosnia and Herzegovina,Italy,"Italy, German and Spain","Italy, Spain"
+134,Egypt,Bosnia and Herzegovina,"Saudi Arabia, Egypt, the Gambia, Kyrgyzstan, and Turkey","Saudi Arabia, Egypt, Gambia, Kyrgyzstan, Turkey"
+135,Israel,Cyprus,"Israel, cyprus, serbia, UK, US","Israel, Cyprus, Serbia, United Kingdom, United States of America"
+136,Canada,Canada,"United States of America, UK","United States of America, United Kingdom"
+137,Israel,France,"Israel, france, UK, US","Israel, France, United Kingdom, United States of America"
+138,Croatia,United States of America,Croatia,Croatia
+139,Croatia,United States of America,"Kenya, India, Japan, China, Croatia","Kenya, India, Japan, China, Croatia"
+140,Jamaica,Croatia,"United States of America,Egypt, Finland, UK etc..","United States of America, Egypt, Finland, United Kingdom"
+141,United States of America,Croatia,"Mexico, Norway, UK, France","Mexico, Norway, United Kingdom, France"
+142,Croatia,Croatia,Argentina Columbia Ghana Angola,"Argentina, Colombia, Ghana, Angola"
+143,Croatia,Croatia,Europe,
+144,Croatia,Croatia,"Cape Verde, Indonesia and Spain","Cape Verde, Indonesia, Spain"
+145,Croatia,Croatia,"Spain, Indonesia, Canada, Maldives and Germany.","Spain, Indonesia, Canada, Maldives, Germany"
+146,Mexico,Croatia,UK And South Africa,"United Kingdom, South Africa"
+147,Switzerland,Croatia,France,France
+148,United States of America,Croatia,Qatar,Qatar
+149,Germany,Croatia,Brazil,Brazil
+150,Canada,Croatia,Columbia and Kenya,"Colombia, Kenya"
+151,UK,Croatia,India,India
+152,Wales,Croatia,Japan,Japan
+153,Ukraine,Croatia,"United States of America, England and Canada","United States of America, United Kingdom, Canada"
+154,Canada,Croatia,Japan,Japan
+155,UK,Croatia,china,China
+156,Germany,South Africa,"Spain, Portugal, Greece, Germany, South Africa","Spain, Portugal, Greece, Germany, South Africa"
+157,Switzerland,Indonesia,"Brazil, Argentina, Paraguay, Germany, Austria, Switzerland, Portugal, France, Bulgaria, Ireland, Canada, United States of America, Japan, South Korea, Taiwan, Philippines, Indonesia","Brazil, Argentina, Paraguay, Germany, Austria, Switzerland, Portugal, France, Bulgaria, Ireland, Canada, United States of America, Japan, South Korea, Taiwan, Philippines, Indonesia"
+158,Germany,Indonesia,"Argentina, Peru, United States of America, Canada, Portugal, Spain, France, Germany, Sweden, Denmark, Japan, Thailand, Vietnam, Indonesia","Argentina, Peru, United States of America, Canada, Portugal, Spain, France, Germany, Sweden, Denmark, Japan, Thailand, Vietnam, Indonesia"
+159,Germany,Germany,"Bulgaria, Albania, Germany, Spain, Austria","Bulgaria, Albania, Germany, Spain, Austria"
+160,Germany,Greece,"Greece, Cyprus, Germany, Spain, Portugal, Netherlands","Greece, Cyprus, Germany, Spain, Portugal, Netherlands"
+161,Germany,Indonesia,"Brazil, Argentina, South Africa, Germany, Italy, Spain, Portugal, France, Greece, Malta, Cyprus, Turkey, Malta, Estonia, Indonesia, Canada, Japan, Philippines,","Brazil, Argentina, South Africa, Germany, Italy, Spain, Portugal, France, Greece, Malta, Cyprus, Turkey, Estonia, Indonesia, Canada, Japan, Philippines"
+162,Germany,Thailand,"Argentina, Brazil, Germany, Chile, Bolivia, Peru, South Korea, Japan, Thailand, Bali","Argentina, Brazil, Germany, Chile, Bolivia, Peru, South Korea, Japan, Thailand"
+163,United States of America,Montenegro,"United States of America, Montenegro, Serbia, Ireland, Scotland, Austria, Slovakia, Serbia, Czech Republic","United States of America, Montenegro, Serbia, Ireland, United Kingdom, Austria, Slovakia, Czech Republic"
+164,,Vietnam,"Hungary, Netherlands, Spain, Portugal, Canada, Japan, Italy, Greece","Hungary, Netherlands, Spain, Portugal, Canada, Japan, Italy, Greece"
+165,U.K.,Tanzania,"Antarctica, Paraguay, Argentina, Brazil, Germany, Italy, Albania, North Macedonia, Bulgaria, Mongolia, South Korea, Kazakhstan, France","Paraguay, Argentina, Brazil, Germany, Italy, Albania, North Macedonia, Bulgaria, Mongolia, South Korea, Kazakhstan, France"
+166,Belarus,Turkey,"Albania, Portugal, Spain, UAE, Turkey, UK, Argentina, Brazil, Uruguai, Bulgaria, Netherlands, Germany Italy, Romania","Albania, Portugal, Spain, United Arab Emirates, Turkey, United Kingdom, Argentina, Brazil, Bulgaria, Netherlands, Germany, Italy, Romania"
+167,Switzerland,Thailand,"Thailand, Malaysia, Indonesia, Spain, Portugal, Italy, Croatia, Switzerland, Austria, Canada, Japan, Korea, Philippines","Thailand, Malaysia, Indonesia, Spain, Portugal, Italy, Croatia, Switzerland, Austria, Canada, Japan, South Korea, Philippines"
+168,Venezuela,Indonesia,"Venezuela, Canadá, DR, Germany, Spain, US, Japan","Venezuela, Germany, Spain, United States of America, Japan"
+169,Italy,Indonesia,Most Africa and Europe,
+170,Germany,Indonesia,"Bulgaria, Argentina, Spain, Thailand, Japan, Brazil, Canada, Malaysia, Morocco, United States of America","Bulgaria, Argentina, Spain, Thailand, Japan, Brazil, Canada, Malaysia, Morocco, United States of America"
+171,Mexico,Thailand,"Brazil, Peru, United States of America, France, Italy, Greece, Poland, Spain, Portugal, Japan, Phillippines, Thailand","Brazil, Peru, United States of America, France, Italy, Greece, Poland, Spain, Portugal, Japan, Thailand"
+172,Portugal,Portugal,"South Africa, Bulgaria, Spain, Latvia, Peru, Canada, United States of America, Japan, Germany, Marocco","South Africa, Bulgaria, Spain, Latvia, Peru, Canada, United States of America, Japan, Germany, Morocco"
+173,Germany,France,"Spain, Portugal, UK, Canada, States, Japan, Indonesia, Australia","Spain, Portugal, United Kingdom, Canada, United States of America, Japan, Indonesia, Australia"
+174,Bosnia and Herzegovina,Croatia,"Croatia, Montenegro and Hungary","Croatia, Montenegro, Hungary"
+175,Philippines,Philippines,Vietnam,Vietnam
+176,Canada,Mexico,"Canada, United States of America, Mexico, Thailand, Indonesia, Germany, Portugal, Bulgaria, Hungary, Bosnia, Greece, Albania, Turkey, Spain, Japan, Morocco","Canada, United States of America, Mexico, Thailand, Indonesia, Germany, Portugal, Bulgaria, Hungary, Bosnia and Herzegovina, Greece, Albania, Turkey, Spain, Japan, Morocco"
+177,United States of America,Brazil,"Brazil, UK, Spain, Portugal, Barbados, Guyana","Brazil, United Kingdom, Spain, Portugal, Barbados, Guyana"
+178,United States of America,United States of America,Ecuador Argentina Panama Bolivia Hungary spain,"Ecuador, Argentina, Panama, Bolivia, Hungary, Spain"
+179,United Kingdom,Thailand,"Morocco, Malaysia, Singapore, Thailand","Morocco, Malaysia, Singapore, Thailand"
+180,Kenya,Kenya,Ghana,Ghana
+181,France,United States of America,Africa,
+182,United Kingdom,United States of America,Qutar,Qatar
+183,Australia,Malaysia,"Netherlands, Denmark, Spain, Cyprus, Germany","Netherlands, Denmark, Spain, Cyprus, Germany"
+184,Pakistan,Pakistan,Thailand,Thailand
+185,United States of America,Slovenia,"United States of America, England and Spain","United States of America, United Kingdom, Spain"
+186,Mexico,Switzerland,"Poland, Amsterdam, Mexico, United States of America, Francia, Switzerland & Italy","Poland, Mexico, United States of America, Switzerland, Italy"
+187,United States of America,United States of America,Mexico Thailand Spain Columbia Nigeria,"Mexico, Thailand, Spain, Colombia, Nigeria"
+188,Italy,Vietnam,"Uganda, Bulgaria, Serbia, Bosnia and Herzegovina","Uganda, Bulgaria, Serbia, Bosnia and Herzegovina"
+189,Paraguay,Paraguay,"Spain, Germany","Spain, Germany"
+190,United States of America,Thailand,"Philippines, Vietnam, South Korea","Philippines, Vietnam, South Korea"
+191,Netherlands,Thailand,"Thailand, Vietnam, Laos","Thailand, Vietnam, Laos"
+192,Netherlands,Thailand,"All ASEAN, EU, US",United States of America
+193,Australia,Spain,five,
+194,Norway,Ecuador,"Norway, Ecuador, Sweden, Denmark, Germany, tunisia, Malta, San Marino, France, Italy, Spain Portugal, Greenland, Iceland","Norway, Ecuador, Sweden, Denmark, Germany, Tunisia, Malta, San Marino, France, Italy, Spain, Portugal, Iceland"
+195,United States of America,Bulgaria,"Romania, France, Germany, Croatia","Romania, France, Germany, Croatia"
+196,Netherlands,Spain,"UK, Croatia, Germany","United Kingdom, Croatia, Germany"
+197,Poland,Cape Verde,"UK, Spain, Portugal, Morocco, Switzerland, Bosnia and Herzegovina, Holland, Estonia, France, Letonia","United Kingdom, Spain, Portugal, Morocco, Switzerland, Bosnia and Herzegovina, Netherlands, Estonia, France, Latvia"
+198,Portugal,Bulgaria,"Portugal, Greece, Spain and Bulgaria","Portugal, Greece, Spain, Bulgaria"
+199,Nigeria,Thailand,Turkey,Turkey
+200,France,Georgia,"Turkiye, Kazakhstan, China, Azerbaïdjan","Turkey, Kazakhstan, China"
+201,United States of America,Portugal,"Us, Israel, France, Spain","United States of America, Israel, France, Spain"
+202,Australia,United States of America,"Costa Rica, Mexico, Brasil","Costa Rica, Mexico, Brazil"
+203,Netherlands,Cape Verde,"France, Slovenia, England, Scotland, Germany","France, Slovenia, United Kingdom, Germany"
+204,UK,North Macedonia,"SERBIA, KOSOVO",Serbia
+205,United States of America,United Kingdom,"Italy, Turkey, Bulgaria, Serbia","Italy, Turkey, Bulgaria, Serbia"
+206,Ireland,Bosnia and Herzegovina,"North Macedonia, Greece, Saudi Arabia","North Macedonia, Greece, Saudi Arabia"
+207,Nigeria,Bulgaria,"Türkiye, Qatar",Qatar
+208,Mexico,Saudi Arabia,Albania,Albania
+209,Canada,United Kingdom,"Jordan, North Macedonia, Spain, Germany","Jordan, North Macedonia, Spain, Germany"
+210,Netherlands,Indonesia,ITALY,Italy
+211,France,Greece,turkey,Turkey
+212,Ireland,Spain,United States of America,United States of America
+213,Poland,Spain,"gibraltar, spain, italy france","Spain, Italy, France"
+214,Poland,Romania,"FRANCE, MALTA, VIETNAM, SINGAPORE, INDONESIA, DENMARK, SWEDEN, ITALY, UAE, PORTUGAL","France, Malta, Vietnam, Singapore, Indonesia, Denmark, Sweden, Italy, United Arab Emirates, Portugal"
+215,Mexico,United Kingdom,Spain France germany,"Spain, France, Germany"
+216,Spain,Canada,Scotland,United Kingdom
+217,Sweden,Philippines,"Spain, Turkey, Germany, Holland, France","Spain, Turkey, Germany, Netherlands, France"
+218,Turkey,Spain,European countries,
+219,Israel,Morocco,"Greece, Italy, Spain","Greece, Italy, Spain"
+220,Australia,Netherlands,"ITALY, FINLAND, GERMANY","Italy, Finland, Germany"
+221,Australia,United States of America,ITALY FRANCE,"Italy, France"
+222,Slovenia,United Arab Emirates,Croatia,Croatia
+223,Finland,Mexico,Vietnam,Vietnam
+224,Australia,Spain,"CANADA, United States of America, MEXICO, THAILAND, INDONESIA, GERMANY, PORTUGAL, BULGARIA, HUNGARY, BOSNIA, GREECE, ALBANIA, TURKEY, SPAIN, JAPAN, MOROCCO","Canada, United States of America, Mexico, Thailand, Indonesia, Germany, Portugal, Bulgaria, Hungary, Bosnia and Herzegovina, Greece, Albania, Turkey, Spain, Japan, Morocco"
+225,Norway,Portugal,"Brazil, UK, Spain, Portugal, Barbados, Guyana","Brazil, United Kingdom, Spain, Portugal, Barbados, Guyana"
+226,UK,Slovenia,"Malaysia, Singapore, Thailand, Morocco","Malaysia, Singapore, Thailand, Morocco"
+227,Croatia,United Arab Emirates,Ghana,Ghana
+228,United States of America,Croatia,Africa,
+229,Austria,Spain,Netherlands,Netherlands
+230,Germany,United Kingdom,new zealand,New Zealand
+231,France,Spain,"United States of America, England, Spain","United States of America, United Kingdom, Spain"
+232,Austria,United Kingdom,"Poland, Amsterdam, Mexico, United States of America, Francia, Switzerland & Italy","Poland, Mexico, United States of America, Switzerland, Italy"
+233,Germany,Bosnia and Herzegovina,Uganda,Uganda
+234,Germany,China,"Philippines, Vietnam, South Korea","Philippines, Vietnam, South Korea"
+235,Bulgaria,Montenegro,"Laos, Vietnam, Thailand","Laos, Vietnam, Thailand"
+236,Netherlands,United Kingdom,"ALL ASEAN, EU, US",United States of America
+237,Germany,United States of America,"Norway, Ecuador, Sweden, Denmark, Germany, tunisia, Malta, San Marino, France, Italy, Spain Portugal, Greenland, Iceland","Norway, Ecuador, Sweden, Denmark, Germany, Tunisia, Malta, San Marino, France, Italy, Spain, Portugal, Iceland"
+238,France,Thailand,"Romania, France, Germany, Croatia","Romania, France, Germany, Croatia"
+239,UK,Spain,"uk, croatia, germany","United Kingdom, Croatia, Germany"
+240,Italy,Spain,"UK, Spain, Portugal, Morocco, Switzerland, Bosnia, Herzegovina, Holland, Estonia, France, Letonia","United Kingdom, Spain, Portugal, Morocco, Switzerland, Bosnia and Herzegovina, Netherlands, Estonia, France, Latvia"
+241,England,Croatia,"Portugal, Greece, Spain, Bulgaria","Portugal, Greece, Spain, Bulgaria"
+242,Germany,Spain,"Turkiye, Kazakhstan, China, Azerbaïdjan","Turkey, Kazakhstan, China"
+243,United Kingdom,Montenegro,Egypt germany china,"Egypt, Germany, China"
+244,France,United States of America,"China, Qatar","China, Qatar"
+245,UK,Slovenia,"Hungary, India, Indonesia, Laos, Malaysia, Philippines, Taiwan, Tanzania, Thailand, Vietnam, Germany","Hungary, India, Indonesia, Laos, Malaysia, Philippines, Taiwan, Tanzania, Thailand, Vietnam, Germany"
+246,United States of America,Vietnam,"Indonesia, Italy, Mauritius, Nepal, Switzerland, Thailand, etc, UK","Indonesia, Italy, Mauritius, Nepal, Switzerland, Thailand, United Kingdom"
+247,France,Indonesia,"China, Malaysia","China, Malaysia"
+248,Switzerland,South Africa,"china, uae, Switzerland","China, United Arab Emirates, Switzerland"
+249,Netherlands,Saudi Arabia,China,China
+250,Turkey,United States of America,"Japan, England, China","Japan, United Kingdom, China"
+251,United States of America,Turkey,"China, Malaysia, Singapore","China, Malaysia, Singapore"
+252,Germany,Indonesia,China,China
+253,United States of America,Bulgaria,"Thailand, Singapore, Vietnam","Thailand, Singapore, Vietnam"
+254,Italy,Romania,"Vietnam, Camboja, London","Vietnam, Cambodia"
+255,United States of America,Curacao,"I visited 5 countries last year: Thailand, Singapore, Japan, Taiwan, Indonesia","Thailand, Singapore, Japan, Taiwan, Indonesia"
+256,Ukraine,Spain,"United Kingdom, Indonesia","United Kingdom, Indonesia"
+257,United States of America,Spain,"Hungary, Germany, Finland, Spain, Tunisia, India, Turkie, Austia, of course i was home in PL","Hungary, Germany, Finland, Spain, Tunisia, India, Turkey, Austria"
+258,United Kingdom,Malta,"Netherlands, Switzerland, Austria","Netherlands, Switzerland, Austria"
+259,Poland,Indonesia,"Austria, Switzerland, Poland, Italy, Netherlands, Serbia","Austria, Switzerland, Poland, Italy, Netherlands, Serbia"
+260,UK,Spain,"Veitnam, Thailand, Cambodia","Vietnam, Thailand, Cambodia"
+261,Italy,Portugal,"Serbia, Montenegro, El Salvador, Belize, Jamaica, Dominican Republic, Guatemala, Costa Rica, North Macedonia, Colombia, Panama, Thailand","Serbia, Montenegro, El Salvador, Belize, Jamaica, Dominican Republic, Guatemala, Costa Rica, North Macedonia, Colombia, Panama, Thailand"
+262,Slovenia,Spain,United Arab Emirates,United Arab Emirates
+263,United States of America,Indonesia,"FRANE, LIECHTENSTEIN, MOROCCO, LUXEMBOURG, BELGIUM, UK, SERBIA, DENMARK, POLAND, SWEDEN, EGYPT, BOSNIA, TURKEY, SOUTH AFRICA","France, Liechtenstein, Morocco, Luxembourg, Belgium, United Kingdom, Serbia, Denmark, Poland, Sweden, Egypt, Bosnia and Herzegovina, Turkey, South Africa"
+264,United Kingdom,Thailand,"singapore, malaysia, indonesia, greece, israel","Singapore, Malaysia, Indonesia, Greece, Israel"
+265,United States of America,Portugal,"Thailand, Vietnam, Spain, Turkey, Belgium, France","Thailand, Vietnam, Spain, Turkey, Belgium, France"
+266,Serbia,North Macedonia,"denmark, sweden, netherlands, germany, london, spain, United States of America (3 states in us as well - california, connecticut, florida)","Denmark, Sweden, Netherlands, Germany, Spain, United States of America"
+267,Portugal,Indonesia,"France, Spain, Italy, Poland, Belgium, Switzerland","France, Spain, Italy, Poland, Belgium, Switzerland"
+268,Spain,Portugal,"Germany, Thailand","Germany, Thailand"
+269,Indonesia,Montenegro,"colombia, mexico, turkiye, azerbaijan, georgia, morocco","Colombia, Mexico, Turkey, Azerbaijan, Georgia, Morocco"
+270,France,Turkey,"DENMARK, AUSTRIA, CROATIA, BOSNIA","Denmark, Austria, Croatia, Bosnia and Herzegovina"
+271,Poland,Greece,"Chile, Australia, Indonesia, Switzerland, Bulgaria, United States of America, Poland, Estonia, Latvia, Canada, Japan, South Korean","Chile, Australia, Indonesia, Switzerland, Bulgaria, United States of America, Poland, Estonia, Latvia, Canada, Japan, South Korea"
+272,Germany,Saudi Arabia,SPAIN PORTUGAL GERMANY CZECH AUSTRIA SLOVAKIA BULGARIA North Macedonia KOSOVO B & H MONTENEGRO ALBANIA HUNGARY SWITZERLAND FRANCE BELGIUM LUXEMBOURG NETHERLANDS ITALY VATICAN,"Spain, Portugal, Germany, Czech Republic, Austria, Slovakia, Bulgaria, North Macedonia, Montenegro, Albania, Hungary, Switzerland, France, Belgium, Luxembourg, Netherlands, Italy"
+273,UK,Spain,"Czech Rebublic, the Netherlands","Czech Republic, Netherlands"
+274,United States of America,Poland,"Spain, Portugal, Greece, Belgium, Bosnia Herzegovina","Spain, Portugal, Greece, Belgium, Bosnia and Herzegovina"
+275,United Kingdom,United Kingdom,Ireland,Ireland
+276,United States of America,United Kingdom,"Belgium, Denmark, France, Germany, Italy, Netherlands, Spain, Switzerland, United States of America, UK","Belgium, Denmark, France, Germany, Italy, Netherlands, Spain, Switzerland, United States of America, United Kingdom"
+277,United States of America,Spain,"France, Spain, United States of America, Colombia","France, Spain, United States of America, Colombia"
+278,Denmark,United Kingdom,"Austria, Bosnia, Croatia, Denmark, Germany, Hungary, Italy, Montenegro, Norway, Serbia, Slovenia, Switzerland, Sweden","Austria, Bosnia and Herzegovina, Croatia, Denmark, Germany, Hungary, Italy, Montenegro, Norway, Serbia, Slovenia, Switzerland, Sweden"
+279,Netherlands,Spain,"Spain, Georgia, Maldives, Philippines, Indonesia, Germany, Morocco","Spain, Georgia, Maldives, Philippines, Indonesia, Germany, Morocco"
+280,Germany,Thailand,"South korea, australia, taiwan, hong kong","South Korea, Australia, Taiwan"
+281,Israel,Slovenia,Costa Rica/Italy/Denmark/Greece/Croatia,"Costa Rica, Italy, Denmark, Greece, Croatia"
+282,Indonesia,Slovenia,"Lithuania, Austria, Spain, UK, Italy, Slovenia, Bosnia, Finland","Lithuania, Austria, Spain, United Kingdom, Italy, Slovenia, Bosnia and Herzegovina, Finland"
+283,France,Morocco,"United States of America, Israel, Austria, Germany","United States of America, Israel, Austria, Germany"
+284,Germany,Netherlands,"Colombia, France, Italy, Mexico, Norway, Spain, United States of America, Croatia","Colombia, France, Italy, Mexico, Norway, Spain, United States of America, Croatia"
+285,Italy,Indonesia,serbia,Serbia
+286,US,Vietnam,Malaysia Singapore Indonesia,"Malaysia, Singapore, Indonesia"
+287,Poland,Germany,"sweden, germany, uk, spain, portugal, japan, us, canada","Sweden, Germany, United Kingdom, Spain, Portugal, Japan, United States of America, Canada"
+288,Australia,Hungary,"Belgium, France, Mexico, Netherlands, United States of America, UK","Belgium, France, Mexico, Netherlands, United States of America, United Kingdom"
+289,Serbia,Thailand,"Mexico, Netherlands, Belgium, France, Spain, UK, United States of America","Mexico, Netherlands, Belgium, France, Spain, United Kingdom, United States of America"
+290,uk,Thailand,"Sweden, Denmark, Switzerland, Spain","Sweden, Denmark, Switzerland, Spain"
+291,Switzerland,Malaysia,"spain, france, australia, austria, slovenia, slovakia, hungary, poland, czech republic, estonia, lithuania","Spain, France, Australia, Austria, Slovenia, Slovakia, Hungary, Poland, Czech Republic, Estonia, Lithuania"
+292,Switzerland,Spain,"bulgaria, greece, poland, czechia, sri lanka, oman","Bulgaria, Greece, Poland, Czech Republic, Sri Lanka, Oman"
+293,Poland,Sweden,"Spain, Portugal, Italy, Czech Republic, Germany","Spain, Portugal, Italy, Czech Republic, Germany"
+294,Netherlands,United Kingdom,United States of America,United States of America
+295,Bosnia and Herzegovina,Thailand,"Poland, Japan, Germany, Italy","Poland, Japan, Germany, Italy"
+296,Philippines,Ecuador,"Croatia, Singapour, Vietnam, Germany","Croatia, Singapore, Vietnam, Germany"
+297,France,Philippines,"Morroco, Egypt","Morocco, Egypt"
+298,United Kingdom,United Kingdom,Thailand,Thailand
+299,Indonesia,Croatia,"Israel, US, Netherland, Portugal, Spain","Israel, United States of America, Netherlands, Portugal, Spain"
+300,Indonesia,United States of America,"Thailand, Sri Lanka, Philippines, Singapore, Vietnam, Japan, Korea, Malaysia","Thailand, Sri Lanka, Philippines, Singapore, Vietnam, Japan, South Korea, Malaysia"
+301,Slovenia,United Kingdom,UK; Portugal; Spain; Turkey; Italy; Japan; Canada,"United Kingdom, Portugal, Spain, Turkey, Italy, Japan, Canada"
+302,United Kingdom,China,"Filipiny, Tajlandia, Grenada, St Vincent, Grenadines, Czech, Malezja, China, UK, Spain","Grenada, Czech Republic, China, United Kingdom, Spain"
+303,Australia,United States of America,"Croatia, Macedonia, Spain, Italy","Croatia, Spain, Italy"
+304,Australia,Slovenia,"Belgium, Spain, Morocco","Belgium, Spain, Morocco"
+305,United States of America,United Kingdom,"Us, Israel, France, Spain","United States of America, Israel, France, Spain"
+306,UK,Malaysia,"costa rica, mexico, brasil","Costa Rica, Mexico, Brazil"
+307,United Kingdom,Germany,"france, slovenia, england, scotland, germany","France, Slovenia, United Kingdom, Germany"
+308,Indonesia,Spain,"Serbia, Kosovo",Serbia
+309,Germany,North Macedonia,"Italy, Turkey, Bulgaria, Serbia","Italy, Turkey, Bulgaria, Serbia"
+310,New York,United Kingdom,"North Macedonia, Greece, Saudi Arabia","North Macedonia, Greece, Saudi Arabia"
+311,Poland,Germany,"türkiye, qatar",Qatar
+312,United States of America,North Macedonia,Albania,Albania
+313,Italy,Vietnam,"Jordan, North Macedonia, Spain, Germany","Jordan, North Macedonia, Spain, Germany"
+314,Brazil,Thailand,italy,Italy
+315,uk,Spain,turkey,Turkey
+316,United States of America,United Kingdom,United States of America,United States of America
+317,Poland,Poland,"italy france, spain","Italy, France, Spain"
+318,Italy,Greece,"France, Malta, Vietnam, Singapore, Indonesia, Denmark, Sweden, Italy, UAE, Portugal","France, Malta, Vietnam, Singapore, Indonesia, Denmark, Sweden, Italy, United Arab Emirates, Portugal"
+319,Italy,Cape Verde,Scotland,United Kingdom
+320,Mexico,Spain,"Turkey, Germany, Holland, France","Turkey, Germany, Netherlands, France"
+321,Poland,Spain,"EUROPE, Thailand",Thailand
+322,Uk,Portugal,"Greece, Italy, Spain","Greece, Italy, Spain"
+323,Croatia,Spain,"Italy, Finland, Germany","Italy, Finland, Germany"
+324,Australia,Spain,"IT, FR",
+325,France/UK,Spain,"croatia, montenegro, hungary","Croatia, Montenegro, Hungary"
+326,UK,Poland,Vietnam,Vietnam
+327,Indonesia,Slovenia,"canada, United States of America, mexico, thailand, indonesia, germany, portugal, bulgaria, hungary, bosnia, greece, albania, turkey, spain, japan, morocco","Canada, United States of America, Mexico, Thailand, Indonesia, Germany, Portugal, Bulgaria, Hungary, Bosnia and Herzegovina, Greece, Albania, Turkey, Spain, Japan, Morocco"
+328,Germany,Spain,"Brazil, UK, Spain, Portugal, Barbados, Guyana","Brazil, United Kingdom, Spain, Portugal, Barbados, Guyana"
+329,Germany,North Macedonia,"Morocco, Malaysia, Singapore, Thailand","Morocco, Malaysia, Singapore, Thailand"
+330,Singapore,Philippines,Africa,
+331,Poland,Montenegro,quatar,
+332,Germany,Slovenia,"netherlands, denmark, spain","Netherlands, Denmark, Spain"
+333,Singapore,Saudi Arabia,New Zealand,New Zealand
+334,Pakistan,Romania,THAILAND,Thailand
+335,New York,Spain,"United States of America, ENG",United States of America
+336,Ireland,Thailand,"Uganda, Bulgaria, Serbia, Bosnia, Herzegovina","Uganda, Bulgaria, Serbia, Bosnia and Herzegovina"
+337,Germany,United States of America,"South Korea, Vietnam, Philippines","South Korea, Vietnam, Philippines"
+338,United Kingdom,Malaysia,Thailand,Thailand
+339,France,United Kingdom,"Sweden, Denmark, Germany, tunisia, Malta, San Marino, France, Italy, Spain Portugal, Greenland, Iceland","Sweden, Denmark, Germany, Tunisia, Malta, San Marino, France, Italy, Spain, Portugal, Iceland"
+340,Turkey,Spain,"Romania, France, Germany, Croatia","Romania, France, Germany, Croatia"
+341,United States of America,United States of America,"croatia, germany","Croatia, Germany"
+342,Australia,Brazil,UK,United Kingdom
+343,France,Malta,"Portugal, Spain","Portugal, Spain"
+344,France,Georgia,Turkey,Turkey
+345,Philippines,Turkey,"Turkiye, Kazakhstan, China, Azerbaïdjan","Turkey, Kazakhstan, China"
+346,Indonesia,Croatia,"Netherlands, Portugal, Spain","Netherlands, Portugal, Spain"
+347,Indonesia,United States of America,"Thailand, Sri Lanka, Philippines, Singapore, Vietnam, Japan, Korea, Malaysia","Thailand, Sri Lanka, Philippines, Singapore, Vietnam, Japan, South Korea, Malaysia"
+348,Slovenia,United Kingdom,Portugal; Spain; Turkey; Japan; Canada,"Portugal, Spain, Turkey, Japan, Canada"
+349,United Kingdom,China,"Filipiny, Tajlandia, Grenada, St Vincent, Grenadines, Czech, Malezja, China, UK, Spain","Grenada, Czech Republic, China, United Kingdom, Spain"
+350,Australia,United States of America,"Croatia, Makedonia, Spain, Italy","Croatia, Spain, Italy"
+351,Australia,Slovenia,Morocco,Morocco
+352,UK,Malaysia,Latin America,
+353,United Kingdom,Germany,"france, slovenia, england, scotland, germany","France, Slovenia, United Kingdom, Germany"
+354,Indonesia,Spain,Balkan,
+355,Germany,North Macedonia,"Italy, Turkey, Bulgaria","Italy, Turkey, Bulgaria"
+356,Poland,Germany,"turkey, qatar","Turkey, Qatar"
+357,United States of America,North Macedonia,Albania,Albania
+358,Italy,Vietnam,"North Macedonia, Spain, Germany","North Macedonia, Spain, Germany"
+359,Brazil,Thailand,IT,
+360,uk,Spain,Turkey,Turkey
+361,United States of America,United Kingdom,United States of America,United States of America
+362,Poland,Poland,"italy france, spain, gibraltar","Italy, France, Spain"
+363,Italy,Greece,"France, Malta, Vietnam, Singapore, Indonesia, Denmark, Sweden, Italy, UAE, Portugal","France, Malta, Vietnam, Singapore, Indonesia, Denmark, Sweden, Italy, United Arab Emirates, Portugal"
+364,Italy,Cape Verde,UK,United Kingdom
+365,Mexico,Spain,"Spain, Turkey, Germany, Netherlands, France","Spain, Turkey, Germany, Netherlands, France"
+366,Uk,Portugal,"Germany, Greece, Italy, Spain","Germany, Greece, Italy, Spain"
+367,Croatia,Spain,"Italy, Finland, Germany","Italy, Finland, Germany"
+368,Australia,Spain,"IT, FR",
+369,France/UK,Spain,"Montenegro, Hungary, Serbia","Montenegro, Hungary, Serbia"
+370,UK,Poland,Vietnam,Vietnam
+371,Indonesia,Slovenia,"USA, mexico, thailand, indonesia, germany, portugal, bulgaria, hungary, bosnia, greece, albania, turkey, spain, japan, morocco","United States of America, Mexico, Thailand, Indonesia, Germany, Portugal, Bulgaria, Hungary, Bosnia and Herzegovina, Greece, Albania, Turkey, Spain, Japan, Morocco"
+372,Germany,Spain,"Brazil, UK, Spain, Portugal, Barbados, Guyana","Brazil, United Kingdom, Spain, Portugal, Barbados, Guyana"
+373,Germany,North Macedonia,"Morocco, Malaysia, Singapore, Thailand","Morocco, Malaysia, Singapore, Thailand"
+374,Singapore,Philippines,"EU, Africa, Asia",
+375,Germany,Slovenia,"netherlands, denmark, spain, cyprus, germany","Netherlands, Denmark, Spain, Cyprus, Germany"
+376,Singapore,Saudi Arabia,"MZ, Aust",
+377,Pakistan,Romania,Thai,
+378,New York,Spain,"United States of America, UK","United States of America, United Kingdom"
+379,Germany,United States of America,Asia,
+380,United Kingdom,Malaysia,Asia,
+381,France,United Kingdom,"Norway, Ecuador, Sweden, Denmark, Germany, tunisia, Malta, San Marino, France, Italy, Spain Portugal, Greenland, Iceland","Norway, Ecuador, Sweden, Denmark, Germany, Tunisia, Malta, San Marino, France, Italy, Spain, Portugal, Iceland"
+382,United States of America,United States of America,"uk, croatia, germany","United Kingdom, Croatia, Germany"
+383,Australia,Brazil,UK,United Kingdom
+384,France,Malta,Portugal,Portugal
+385,Philippines,Turkey,Middle EAst,
+386,Finland,Italy,"Finland, Denmark, Netherlands, Spain, Italy, Morocco, Thailand, Vietnam, China (Hong Kong), Estonia, Latvia, Lithuania, Poland, Slovakia, Hungary, Romania, Czech, Germany","Finland, Denmark, Netherlands, Spain, Italy, Morocco, Thailand, Vietnam, China, Estonia, Latvia, Lithuania, Poland, Slovakia, Hungary, Romania, Czech Republic, Germany"
+387,Sweden,Portugal,"Mexico, Brasil, Costa Rica, Chili","Mexico, Brazil, Costa Rica, Chile"
+388,Germany,Hungary,"Home in Germany, Austria, Greece, Spain, Portugal, Bulgaria and Croatia","Germany, Austria, Greece, Spain, Portugal, Bulgaria, Croatia"
+389,Israel,Cambodia,"Laos, Cambodia","Laos, Cambodia"
+390,Iran,Hungary,"UK ,Spain, Portugal, Slovenia, Belgium, The Netherlands, Italy, Romania, Tunisia, Turkey","United Kingdom, Spain, Portugal, Slovenia, Belgium, Netherlands, Italy, Romania, Tunisia, Turkey"
+391,Slovenia,Indonesia,"Germany, Italy, Indonesia, Spain, Egypt","Germany, Italy, Indonesia, Spain, Egypt"
+392,Israel,Israel,"PERU, COLOMBIA, MEXICO, ARGENTINA, Belgium","Peru, Colombia, Mexico, Argentina, Belgium"
+393,Minsk,Montenegro,"Italy, turkey, Albania","Italy, Turkey, Albania"
+394,Netherlands,Vietnam,"Mexico, Netherlands, Argentina, Georgia, Turkey, Italy, Germany, Denmark (weekend trip with friends) Oman (holiday) and Vietnam. End of the year in Mexico again","Mexico, Netherlands, Argentina, Georgia, Turkey, Italy, Germany, Denmark, Oman, Vietnam"
+395,United States of America,Italy,"Portugal, France, Italy, Albania, Montenegro, Croatia, Bosnia & Herzegovina","Portugal, France, Italy, Albania, Montenegro, Croatia, Bosnia and Herzegovina"
+396,Bulgaria,Italy,"Austria, France, Spain, Sweden, Romania, Italy","Austria, France, Spain, Sweden, Romania, Italy"
+397,Slovakia,Italy,"Albania, Montenegro, North Macedonia, Greece, Lithuania, Spain, England, Poland, Czechia, Canary Islands","Albania, Montenegro, North Macedonia, Greece, Lithuania, Spain, United Kingdom, Poland, Czech Republic"
+398,Bulgaria,Hungary,"Home Bulgaria, Greece and Trukey, Latvia Estonia (Tallin). I spent most of my time in Greece","Bulgaria, Greece, Latvia, Estonia"
+399,France,France,"Morocco, Costa Rica, Portugal","Morocco, Costa Rica, Portugal"
+400,france,France,Madeira and Morocco,Morocco
+401,France,France,"Spain, Portugal, Switzerland, Indonesia","Spain, Portugal, Switzerland, Indonesia"
+402,Serbia,Bosnia and Herzegovina,"Serbia, Slovenia, Slovakia, Italy, United States of America","Serbia, Slovenia, Slovakia, Italy, United States of America"
+403,Puerto Rico,Vietnam,"Albania, Bulgaria, Greece, Mexico","Albania, Bulgaria, Greece, Mexico"
+404,Hungary,Vietnam,"Se asia, europe",
+405,Sweden,Vietnam,"Finland, Estonia, Korea, Thailand, Japan, Vietnam, Laos","Finland, Estonia, South Korea, Thailand, Japan, Vietnam, Laos"
+406,Vietnam,Portugal,"Vietnam, Italy, Spain, Indonesia, Portugal","Vietnam, Italy, Spain, Indonesia, Portugal"
+407,Russia,Montenegro,"Kazahstan, Bosnia, Serbia, Turkey","Bosnia and Herzegovina, Serbia, Turkey"
+408,United States of America,Vietnam,"Taiwan, Vietnam, The Netherlands, Germany, Czech Republic, Belgium","Taiwan, Vietnam, Netherlands, Germany, Czech Republic, Belgium"
+409,Vietnam,France,Italy,Italy
+410,I am dual nationality (Australian and Greek) and I have lived in different places most of my life.,Vietnam,"Greece, Germany, Thailand and Australia","Greece, Germany, Thailand, Australia"
+411,Russia,Montenegro,"Serbia, Bosnia and Hercegovina, Russia","Serbia, Bosnia and Herzegovina, Russia"
+412,Russia,Montenegro,"Russia, Kazakhstan, Georgia, Turkey, Bosnia&Herzegovina, Bulgaria, Serbia, Montenegro","Russia, Kazakhstan, Georgia, Turkey, Bosnia and Herzegovina, Bulgaria, Serbia, Montenegro"
+413,Russia,Montenegro,"Bosnia and Herzegovina, Turkey, Republic of Moldova","Bosnia and Herzegovina, Turkey, Moldova"
+414,Brazil,Slovenia,"Italy, Croatia, Norway, United States of America, Colombia","Italy, Croatia, Norway, United States of America, Colombia"
+415,Spain,Spain,"Germany, Poland","Germany, Poland"
+416,United States of America,Vietnam,"Mexico, United States of America, Japan, Thailand, Vietnam","Mexico, United States of America, Japan, Thailand, Vietnam"
+417,France,France,"Australia, Indonesia, United States of America, Vietnam, Spain, Belgium","Australia, Indonesia, United States of America, Vietnam, Spain, Belgium"
+418,Columbia,North Macedonia,"Italy, Spain and Croatia","Italy, Spain, Croatia"
+419,Taiwan,Vietnam,"Australia, Japan, Sir Lanka, Indonesia, Malasia, Thailand, Vietnam, Portugal, Spain, France","Australia, Japan, Indonesia, Thailand, Vietnam, Portugal, Spain, France"
+420,Russia,Montenegro,"Georgia, Armenia, Turky","Georgia, Armenia, Turkey"
+421,Russia,Montenegro,"France, Croatia, Serbia, Spain, Austria","France, Croatia, Serbia, Spain, Austria"
+422,Russia,Austria,"Serbia, Bosnia and Herzegovina","Serbia, Bosnia and Herzegovina"
+423,Russia,Montenegro,"Germany, Serbia, Bosnia and Herzegovina","Germany, Serbia, Bosnia and Herzegovina"
+424,Singapore,Vietnam,"Japan, Singapore, Taiwan, China","Japan, Singapore, Taiwan, China"
+425,Czechia,Vietnam,"United States of America, Slovakia, Germany, Hungary, UAE","United States of America, Slovakia, Germany, Hungary, United Arab Emirates"
+426,Russia,Montenegro,"Moldova, Türkiye, Bosnia and Herzegovina, Russia","Moldova, Bosnia and Herzegovina, Russia"
+427,Vietnam,Netherlands,"Spain, Austria, Germany, Italy, Czech Republic, Belgium, Slovakia, Slovenia, Romania, Hungary, Croatia, Poland","Spain, Austria, Germany, Italy, Czech Republic, Belgium, Slovakia, Slovenia, Romania, Hungary, Croatia, Poland"
+428,Israel,Israel,"Thailand, South Korea, Japan","Thailand, South Korea, Japan"
+429,Israel,Germany,"Israel, uk, ys , serbia","Israel, United Kingdom, Serbia"
+430,Israel,Austria,"Mexico, spain, france, italy, israel, austria, United States of America, england","Mexico, Spain, France, Italy, Israel, Austria, United States of America, United Kingdom"
+431,Israel,United States of America,"United States of America, israel, germany, sweden","United States of America, Israel, Germany, Sweden"
+432,Moldova,Germany,"Portugal, Denmark and Germany","Portugal, Denmark, Germany"
+433,Germany,Germany,"Japan, United States of America, italy","Japan, United States of America, Italy"
+434,Germany,Germany,"Asia, Europe, America",United States of America
+435,Germany,Germany,Mexico,Mexico
+436,Germany,Germany,Italy Spain Portugal Argentina,"Italy, Spain, Portugal, Argentina"
+437,Germany,Germany,"Spanien, Niederlande, Frankreich",
+438,Germany,Germany,"France, Dubai, England, sieben, United States of America","France, United Kingdom, United States of America"
+439,Germany,Germany,france italy spane portugal,"France, Italy, Portugal"
+440,Australia,Germany,Japan,Japan
+441,Germany,Germany,"United States of America, UK, France, Canada, Germany and Spain","United States of America, United Kingdom, France, Canada, Germany, Spain"
+442,Germany,Germany,Italy france greece,"Italy, France, Greece"
+443,Germany,Germany,"Spain, Turkey, Bulgaria, Russia, New Zealand, United States of America, England, France, Canada","Spain, Turkey, Bulgaria, Russia, New Zealand, United States of America, United Kingdom, France, Canada"
+444,Germany,Germany,"Switzerland, Italy, Spain, France, Denmark, Norway,","Switzerland, Italy, Spain, France, Denmark, Norway"
+445,Germany,Germany,"Spanien, Frankreich, Italien, Schweiz",
+446,Germany,Germany,"Egypt, romania, Thailand, Hongkong","Egypt, Romania, Thailand"
+447,Germany,Germany,"France, Singapour, United States of America, Itsly, UK, UEA","France, Singapore, United States of America, Italy, United Kingdom, United Arab Emirates"
+448,Berlin,Germany,"Italien,spaniem,albania,france,United States of America","Albania, France, United States of America"
+449,Germany,Germany,United States of America italy Spanien germany,"United States of America, Italy, Germany"
+450,Germany,Germany,"Germany, Switzerland, Czechia","Germany, Switzerland, Czech Republic"
+451,Germany,Germany,"Lyon, New York, Toronto, Kopenhagen und Warschau",
+452,Germany,Germany,"Germany, france, netherlands, italy, spain, GRB","Germany, France, Netherlands, Italy, Spain"
+453,germany,Germany,"america, england, africa, germany, island","United States of America, United Kingdom, Germany"
+454,Cyprus,Germany,"Jordan, Ireland, UAE, Spain, Taiwan, China, Thailand, The Netherlands, Mexico, United States of America, Greece, Austria","Jordan, Ireland, United Arab Emirates, Spain, Taiwan, China, Thailand, Netherlands, Mexico, United States of America, Greece, Austria"
+455,Japan,Germany,"Germany, italy and france","Germany, Italy, France"
+456,China,Thailand,"Thailand, China, Japan, Indonesia, Singapore, Malaysia","Thailand, China, Japan, Indonesia, Singapore, Malaysia"
+457,China,China,"France, Italy, the United Kingdom, Iceland, Morocco, Spain","France, Italy, United Kingdom, Iceland, Morocco, Spain"
+458,China,China,"Thailand, Malaysia, South Korea, Japan","Thailand, Malaysia, South Korea, Japan"
+459,China,China,"US, Uk","United States of America, United Kingdom"
+460,China,China,"Singapore, Thailand","Singapore, Thailand"
+461,China,USA,"United Kingdom, France, Italy, South Korea, Japan, Serbia","United Kingdom, France, Italy, South Korea, Japan, Serbia"
+462,China,China,"China, UK","China, United Kingdom"
+463,China,China,"Thailand, Malaysia, South Korea","Thailand, Malaysia, South Korea"
+464,Japan,Canada,Japan,Japan
+465,Canada,Canada,Turkey,Turkey
+466,Canada,Canada,USA,United States of America
+467,Canada,Canada,Greece 4,Greece
+468,Canada,Canada,"United States, 6 weeks",United States of America
+469,Canada,Canada,"Japan, 3",Japan
+470,Canada,Canada,Italy 1 month,Italy
+471,New Zealand,Canada,Australia 16 weeks,Australia
+472,Singapore,Canada,Mexico 2,Mexico
+473,Canada,Canada,France,France
+474,Romania,Canada,Sweden 4,Sweden
+475,China,Canada,US,United States of America
